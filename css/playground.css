@@ -39,4 +39,12 @@ nav a {
   text-decoration: none;
 }
 
+li .underline {
+  text-decoration: underline;
+  font-weight: bold;
+}
+li .important {
+  color: red;
+}
+
 /*# sourceMappingURL=playground.css.map */
